@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">lab4ost</string>
+    <string name="task_title">task_title</string>
+    <string name="task_description">task_description</string>
+    <string name="add_task">add_task</string>
+    <string name="default_title" >default_title</string>
+    <string name="default_description" >default_description</string>
+
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_selected_msg" >item_selected_msg</string>
+    <string name="delete_question" >Delete?</string>
+    <string name="dialog_confirm" >Ok</string>
+    <string name="dialog_cancel" >Cancel</string>
+    <string name="delete_dialog_tag">delete_dialog_tag</string>
+    <string name="long_click_msg" >long_click_msg</string>
+    <string name="retry_msg" >retry_msg</string>
+    <string name="delete_cancel_msg" >delete_cancel_msg</string>
+</resources>
